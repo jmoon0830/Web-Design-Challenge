@@ -1,0 +1,15 @@
+.container {
+    background-color: white;
+}
+
+.header {
+    background-color: salmon;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
