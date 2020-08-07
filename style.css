@@ -1,10 +1,7 @@
-.container {
-    background-color: white;
+.container{
+    background-color: lightgrey;
 }
 
-.header {
-    background-color: salmon;
-}
 
 h1 {
     text-align: center;
@@ -13,3 +10,19 @@ h1 {
 img {
     width: 400px;
 }
+
+h3 {
+    color: cornflowerblue;
+}
+
+h5 {
+    color: tomato;
+    text-align: center;
+}
+
+#table-scroll {
+    height:600px;
+    overflow:auto;  
+    margin-top:20px;
+    background-color: white;
+  }
